@@ -1,0 +1,15 @@
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+transformers==4.30.0
+torch-scatter==2.0.9
+torch-sparse==0.6.19
+torch-cluster==1.6.0
+torch-spline-conv==1.2.2
+torch-geometric==2.6.1
+pandas==1.5.3
+scikit-learn==1.2.2
+numpy==1.24.3
+typed-argument-parser==1.9.0
+requests==2.31.0
+urllib3==1.26.16

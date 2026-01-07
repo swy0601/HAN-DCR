@@ -1,0 +1,1771 @@
+{
+  "!" : "com.github.javaparser.ast.CompilationUnit",
+  "range" : {
+    "beginColumn" : 1,
+    "endLine" : 77,
+    "endColumn" : 3,
+    "beginLine" : 1
+  },
+  "imports" : [ {
+    "!" : "com.github.javaparser.ast.ImportDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 19,
+      "endColumn" : 25,
+      "beginLine" : 19
+    },
+    "children" : [ {
+      "!" : "com.github.javaparser.ast.expr.Name",
+      "range" : {
+        "beginColumn" : 8,
+        "endLine" : 19,
+        "endColumn" : 24,
+        "beginLine" : 19
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.Name",
+        "range" : {
+          "beginColumn" : 8,
+          "endLine" : 19,
+          "endColumn" : 17,
+          "beginLine" : 19
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 8,
+            "endLine" : 19,
+            "endColumn" : 14,
+            "beginLine" : 19
+          }
+        } ]
+      } ]
+    } ]
+  }, {
+    "!" : "com.github.javaparser.ast.ImportDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 20,
+      "endColumn" : 45,
+      "beginLine" : 20
+    },
+    "children" : [ {
+      "!" : "com.github.javaparser.ast.expr.Name",
+      "range" : {
+        "beginColumn" : 8,
+        "endLine" : 20,
+        "endColumn" : 44,
+        "beginLine" : 20
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.Name",
+        "range" : {
+          "beginColumn" : 8,
+          "endLine" : 20,
+          "endColumn" : 25,
+          "beginLine" : 20
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 8,
+            "endLine" : 19,
+            "endColumn" : 14,
+            "beginLine" : 19
+          }
+        } ]
+      } ]
+    } ]
+  }, {
+    "!" : "com.github.javaparser.ast.ImportDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 21,
+      "endColumn" : 40,
+      "beginLine" : 21
+    },
+    "children" : [ {
+      "!" : "com.github.javaparser.ast.expr.Name",
+      "range" : {
+        "beginColumn" : 8,
+        "endLine" : 21,
+        "endColumn" : 39,
+        "beginLine" : 21
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.Name",
+        "range" : {
+          "beginColumn" : 8,
+          "endLine" : 21,
+          "endColumn" : 29,
+          "beginLine" : 21
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 8,
+            "endLine" : 21,
+            "endColumn" : 25,
+            "beginLine" : 21
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.Name",
+            "range" : {
+              "beginColumn" : 8,
+              "endLine" : 21,
+              "endColumn" : 15,
+              "beginLine" : 21
+            }
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "!" : "com.github.javaparser.ast.ImportDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 22,
+      "endColumn" : 48,
+      "beginLine" : 22
+    },
+    "children" : [ {
+      "!" : "com.github.javaparser.ast.expr.Name",
+      "range" : {
+        "beginColumn" : 8,
+        "endLine" : 22,
+        "endColumn" : 47,
+        "beginLine" : 22
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.Name",
+        "range" : {
+          "beginColumn" : 8,
+          "endLine" : 21,
+          "endColumn" : 29,
+          "beginLine" : 21
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 8,
+            "endLine" : 21,
+            "endColumn" : 25,
+            "beginLine" : 21
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.Name",
+            "range" : {
+              "beginColumn" : 8,
+              "endLine" : 21,
+              "endColumn" : 15,
+              "beginLine" : 21
+            }
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "!" : "com.github.javaparser.ast.ImportDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 23,
+      "endColumn" : 38,
+      "beginLine" : 23
+    },
+    "children" : [ {
+      "!" : "com.github.javaparser.ast.expr.Name",
+      "range" : {
+        "beginColumn" : 8,
+        "endLine" : 23,
+        "endColumn" : 37,
+        "beginLine" : 23
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.Name",
+        "range" : {
+          "beginColumn" : 8,
+          "endLine" : 23,
+          "endColumn" : 35,
+          "beginLine" : 23
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 8,
+            "endLine" : 23,
+            "endColumn" : 30,
+            "beginLine" : 23
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.Name",
+            "range" : {
+              "beginColumn" : 8,
+              "endLine" : 23,
+              "endColumn" : 23,
+              "beginLine" : 23
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.Name",
+              "range" : {
+                "beginColumn" : 8,
+                "endLine" : 23,
+                "endColumn" : 17,
+                "beginLine" : 23
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.Name",
+                "range" : {
+                  "beginColumn" : 8,
+                  "endLine" : 23,
+                  "endColumn" : 10,
+                  "beginLine" : 23
+                }
+              } ]
+            } ]
+          } ]
+        } ]
+      } ]
+    } ]
+  } ],
+  "types" : [ {
+    "!" : "com.github.javaparser.ast.body.ClassOrInterfaceDeclaration",
+    "range" : {
+      "beginColumn" : 1,
+      "endLine" : 77,
+      "endColumn" : 1,
+      "beginLine" : 29
+    },
+    "isInterface" : false,
+    "extendedTypes" : [ {
+      "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+      "range" : {
+        "beginColumn" : 39,
+        "endLine" : 29,
+        "endColumn" : 55,
+        "beginLine" : 29
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.SimpleName",
+        "range" : {
+          "beginColumn" : 39,
+          "endLine" : 29,
+          "endColumn" : 55,
+          "beginLine" : 29
+        }
+      } ]
+    } ],
+    "implementedTypes" : [ ],
+    "members" : [ { }, {
+      "!" : "com.github.javaparser.ast.body.EnumDeclaration",
+      "range" : {
+        "beginColumn" : 3,
+        "endLine" : 51,
+        "endColumn" : 3,
+        "beginLine" : 34
+      },
+      "children" : [ {
+        "!" : "com.github.javaparser.ast.expr.SingleMemberAnnotationExpr",
+        "range" : {
+          "beginColumn" : 3,
+          "endLine" : 34,
+          "endColumn" : 29,
+          "beginLine" : 34
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.Name",
+          "range" : {
+            "beginColumn" : 4,
+            "endLine" : 34,
+            "endColumn" : 19,
+            "beginLine" : 34
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.StringLiteralExpr",
+          "range" : {
+            "beginColumn" : 21,
+            "endLine" : 34,
+            "endColumn" : 28,
+            "beginLine" : 34
+          }
+        } ]
+      }, {
+        "!" : "com.github.javaparser.ast.Modifier",
+        "range" : {
+          "beginColumn" : 3,
+          "endLine" : 35,
+          "endColumn" : 8,
+          "beginLine" : 35
+        },
+        "modifier" : "public"
+      }, {
+        "!" : "com.github.javaparser.ast.expr.SimpleName",
+        "range" : {
+          "beginColumn" : 15,
+          "endLine" : 35,
+          "endColumn" : 26,
+          "beginLine" : 35
+        }
+      }, {
+        "!" : "com.github.javaparser.ast.body.ConstructorDeclaration",
+        "range" : {
+          "beginColumn" : 5,
+          "endLine" : 50,
+          "endColumn" : 5,
+          "beginLine" : 47
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 15,
+            "endLine" : 35,
+            "endColumn" : 26,
+            "beginLine" : 35
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.body.Parameter",
+          "range" : {
+            "beginColumn" : 18,
+            "endLine" : 47,
+            "endColumn" : 31,
+            "beginLine" : 47
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.PrimitiveType",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 47,
+              "endColumn" : 20,
+              "beginLine" : 47
+            },
+            "type" : "INT"
+          }, {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 22,
+              "endLine" : 47,
+              "endColumn" : 31,
+              "beginLine" : 47
+            }
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.body.Parameter",
+          "range" : {
+            "beginColumn" : 34,
+            "endLine" : 47,
+            "endColumn" : 86,
+            "beginLine" : 47
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+            "range" : {
+              "beginColumn" : 34,
+              "endLine" : 47,
+              "endColumn" : 68,
+              "beginLine" : 47
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 34,
+                "endLine" : 47,
+                "endColumn" : 38,
+                "beginLine" : 47
+              }
+            }, {
+              "!" : "com.github.javaparser.ast.type.WildcardType",
+              "range" : {
+                "beginColumn" : 40,
+                "endLine" : 47,
+                "endColumn" : 67,
+                "beginLine" : 47
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+                "range" : {
+                  "beginColumn" : 50,
+                  "endLine" : 47,
+                  "endColumn" : 67,
+                  "beginLine" : 47
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 50,
+                    "endLine" : 47,
+                    "endColumn" : 67,
+                    "beginLine" : 47
+                  }
+                } ]
+              } ]
+            } ]
+          }, {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 70,
+              "endLine" : 47,
+              "endColumn" : 86,
+              "beginLine" : 47
+            }
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.BlockStmt",
+          "range" : {
+            "beginColumn" : 89,
+            "endLine" : 50,
+            "endColumn" : 5,
+            "beginLine" : 47
+          },
+          "statements" : [ {
+            "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+            "range" : {
+              "beginColumn" : 7,
+              "endLine" : 48,
+              "endColumn" : 35,
+              "beginLine" : 48
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.AssignExpr",
+              "range" : {
+                "beginColumn" : 7,
+                "endLine" : 48,
+                "endColumn" : 34,
+                "beginLine" : 48
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                "range" : {
+                  "beginColumn" : 7,
+                  "endLine" : 48,
+                  "endColumn" : 21,
+                  "beginLine" : 48
+                },
+                "scope" : {
+                  "!" : "com.github.javaparser.ast.expr.ThisExpr",
+                  "range" : {
+                    "beginColumn" : 7,
+                    "endLine" : 48,
+                    "endColumn" : 10,
+                    "beginLine" : 48
+                  }
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 22,
+                    "endLine" : 47,
+                    "endColumn" : 31,
+                    "beginLine" : 47
+                  }
+                }
+              }, {
+                "!" : "com.github.javaparser.ast.expr.NameExpr",
+                "range" : {
+                  "beginColumn" : 25,
+                  "endLine" : 48,
+                  "endColumn" : 34,
+                  "beginLine" : 48
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 22,
+                    "endLine" : 47,
+                    "endColumn" : 31,
+                    "beginLine" : 47
+                  }
+                } ]
+              } ]
+            } ]
+          }, {
+            "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+            "range" : {
+              "beginColumn" : 7,
+              "endLine" : 49,
+              "endColumn" : 49,
+              "beginLine" : 49
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.AssignExpr",
+              "range" : {
+                "beginColumn" : 7,
+                "endLine" : 49,
+                "endColumn" : 48,
+                "beginLine" : 49
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                "range" : {
+                  "beginColumn" : 7,
+                  "endLine" : 49,
+                  "endColumn" : 28,
+                  "beginLine" : 49
+                },
+                "scope" : {
+                  "!" : "com.github.javaparser.ast.expr.ThisExpr",
+                  "range" : {
+                    "beginColumn" : 7,
+                    "endLine" : 48,
+                    "endColumn" : 10,
+                    "beginLine" : 48
+                  }
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 70,
+                    "endLine" : 47,
+                    "endColumn" : 86,
+                    "beginLine" : 47
+                  }
+                }
+              }, {
+                "!" : "com.github.javaparser.ast.expr.NameExpr",
+                "range" : {
+                  "beginColumn" : 32,
+                  "endLine" : 49,
+                  "endColumn" : 48,
+                  "beginLine" : 49
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 70,
+                    "endLine" : 47,
+                    "endColumn" : 86,
+                    "beginLine" : 47
+                  }
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      }, {
+        "!" : "com.github.javaparser.ast.body.EnumConstantDeclaration",
+        "range" : {
+          "beginColumn" : 5,
+          "endLine" : 36,
+          "endColumn" : 94,
+          "beginLine" : 36
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 36,
+            "endColumn" : 16,
+            "beginLine" : 36
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+          "range" : {
+            "beginColumn" : 18,
+            "endLine" : 36,
+            "endColumn" : 56,
+            "beginLine" : 36
+          },
+          "scope" : {
+            "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 36,
+              "endColumn" : 25,
+              "beginLine" : 36
+            },
+            "scope" : {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 18,
+                "endLine" : 36,
+                "endColumn" : 18,
+                "beginLine" : 36
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 18,
+                  "endLine" : 36,
+                  "endColumn" : 18,
+                  "beginLine" : 36
+                }
+              } ]
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 36,
+                "endColumn" : 25,
+                "beginLine" : 36
+              }
+            }
+          },
+          "name" : {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 27,
+              "endLine" : 36,
+              "endColumn" : 56,
+              "beginLine" : 36
+            }
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.ClassExpr",
+          "range" : {
+            "beginColumn" : 59,
+            "endLine" : 36,
+            "endColumn" : 93,
+            "beginLine" : 36
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+            "range" : {
+              "beginColumn" : 59,
+              "endLine" : 36,
+              "endColumn" : 87,
+              "beginLine" : 36
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 59,
+                "endLine" : 36,
+                "endColumn" : 87,
+                "beginLine" : 36
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "!" : "com.github.javaparser.ast.body.EnumConstantDeclaration",
+        "range" : {
+          "beginColumn" : 5,
+          "endLine" : 37,
+          "endColumn" : 91,
+          "beginLine" : 37
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 37,
+            "endColumn" : 15,
+            "beginLine" : 37
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+          "range" : {
+            "beginColumn" : 17,
+            "endLine" : 37,
+            "endColumn" : 54,
+            "beginLine" : 37
+          },
+          "scope" : {
+            "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 36,
+              "endColumn" : 25,
+              "beginLine" : 36
+            },
+            "scope" : {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 18,
+                "endLine" : 36,
+                "endColumn" : 18,
+                "beginLine" : 36
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 18,
+                  "endLine" : 36,
+                  "endColumn" : 18,
+                  "beginLine" : 36
+                }
+              } ]
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 36,
+                "endColumn" : 25,
+                "beginLine" : 36
+              }
+            }
+          },
+          "name" : {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 26,
+              "endLine" : 37,
+              "endColumn" : 54,
+              "beginLine" : 37
+            }
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.ClassExpr",
+          "range" : {
+            "beginColumn" : 57,
+            "endLine" : 37,
+            "endColumn" : 90,
+            "beginLine" : 37
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+            "range" : {
+              "beginColumn" : 57,
+              "endLine" : 37,
+              "endColumn" : 84,
+              "beginLine" : 37
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 57,
+                "endLine" : 37,
+                "endColumn" : 84,
+                "beginLine" : 37
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "!" : "com.github.javaparser.ast.body.EnumConstantDeclaration",
+        "range" : {
+          "beginColumn" : 5,
+          "endLine" : 40,
+          "endColumn" : 51,
+          "beginLine" : 38
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 38,
+            "endColumn" : 24,
+            "beginLine" : 38
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+          "range" : {
+            "beginColumn" : 9,
+            "endLine" : 39,
+            "endColumn" : 55,
+            "beginLine" : 39
+          },
+          "scope" : {
+            "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 36,
+              "endColumn" : 25,
+              "beginLine" : 36
+            },
+            "scope" : {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 18,
+                "endLine" : 36,
+                "endColumn" : 18,
+                "beginLine" : 36
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 18,
+                  "endLine" : 36,
+                  "endColumn" : 18,
+                  "beginLine" : 36
+                }
+              } ]
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 36,
+                "endColumn" : 25,
+                "beginLine" : 36
+              }
+            }
+          },
+          "name" : {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 39,
+              "endColumn" : 55,
+              "beginLine" : 39
+            }
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.ClassExpr",
+          "range" : {
+            "beginColumn" : 9,
+            "endLine" : 40,
+            "endColumn" : 50,
+            "beginLine" : 40
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+            "range" : {
+              "beginColumn" : 9,
+              "endLine" : 40,
+              "endColumn" : 44,
+              "beginLine" : 40
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 9,
+                "endLine" : 40,
+                "endColumn" : 44,
+                "beginLine" : 40
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "!" : "com.github.javaparser.ast.body.EnumConstantDeclaration",
+        "range" : {
+          "beginColumn" : 5,
+          "endLine" : 42,
+          "endColumn" : 97,
+          "beginLine" : 41
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 41,
+            "endColumn" : 22,
+            "beginLine" : 41
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+          "range" : {
+            "beginColumn" : 9,
+            "endLine" : 42,
+            "endColumn" : 53,
+            "beginLine" : 42
+          },
+          "scope" : {
+            "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 36,
+              "endColumn" : 25,
+              "beginLine" : 36
+            },
+            "scope" : {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 18,
+                "endLine" : 36,
+                "endColumn" : 18,
+                "beginLine" : 36
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 18,
+                  "endLine" : 36,
+                  "endColumn" : 18,
+                  "beginLine" : 36
+                }
+              } ]
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 36,
+                "endColumn" : 25,
+                "beginLine" : 36
+              }
+            }
+          },
+          "name" : {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 18,
+              "endLine" : 42,
+              "endColumn" : 53,
+              "beginLine" : 42
+            }
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.expr.ClassExpr",
+          "range" : {
+            "beginColumn" : 56,
+            "endLine" : 42,
+            "endColumn" : 96,
+            "beginLine" : 42
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+            "range" : {
+              "beginColumn" : 56,
+              "endLine" : 42,
+              "endColumn" : 90,
+              "beginLine" : 42
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 56,
+                "endLine" : 42,
+                "endColumn" : 90,
+                "beginLine" : 42
+              }
+            } ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "!" : "com.github.javaparser.ast.body.MethodDeclaration",
+      "range" : {
+        "beginColumn" : 3,
+        "endLine" : 76,
+        "endColumn" : 3,
+        "beginLine" : 53
+      },
+      "modifiers" : [ {
+        "!" : "com.github.javaparser.ast.Modifier",
+        "range" : {
+          "beginColumn" : 3,
+          "endLine" : 54,
+          "endColumn" : 11,
+          "beginLine" : 54
+        },
+        "modifier" : "protected"
+      } ],
+      "parameters" : [ {
+        "!" : "com.github.javaparser.ast.body.Parameter",
+        "range" : {
+          "beginColumn" : 27,
+          "endLine" : 54,
+          "endColumn" : 51,
+          "beginLine" : 54
+        },
+        "children" : [ {
+          "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+          "range" : {
+            "beginColumn" : 27,
+            "endLine" : 54,
+            "endColumn" : 32,
+            "beginLine" : 54
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.SimpleName",
+            "range" : {
+              "beginColumn" : 27,
+              "endLine" : 54,
+              "endColumn" : 32,
+              "beginLine" : 54
+            }
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.expr.SimpleName",
+          "range" : {
+            "beginColumn" : 34,
+            "endLine" : 54,
+            "endColumn" : 51,
+            "beginLine" : 54
+          }
+        } ]
+      } ],
+      "type" : {
+        "!" : "com.github.javaparser.ast.type.VoidType",
+        "range" : {
+          "beginColumn" : 13,
+          "endLine" : 54,
+          "endColumn" : 16,
+          "beginLine" : 54
+        }
+      },
+      "body" : {
+        "!" : "com.github.javaparser.ast.stmt.BlockStmt",
+        "range" : {
+          "beginColumn" : 54,
+          "endLine" : 76,
+          "endColumn" : 3,
+          "beginLine" : 54
+        },
+        "statements" : [ {
+          "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 55,
+            "endColumn" : 39,
+            "beginLine" : 55
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+            "range" : {
+              "beginColumn" : 5,
+              "endLine" : 55,
+              "endColumn" : 38,
+              "beginLine" : 55
+            },
+            "scope" : {
+              "!" : "com.github.javaparser.ast.expr.SuperExpr",
+              "range" : {
+                "beginColumn" : 5,
+                "endLine" : 55,
+                "endColumn" : 9,
+                "beginLine" : 55
+              }
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 11,
+                "endLine" : 55,
+                "endColumn" : 18,
+                "beginLine" : 55
+              }
+            },
+            "arguments" : [ {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 55,
+                "endColumn" : 37,
+                "beginLine" : 55
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 34,
+                  "endLine" : 54,
+                  "endColumn" : 51,
+                  "beginLine" : 54
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 57,
+            "endColumn" : 47,
+            "beginLine" : 57
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+            "range" : {
+              "beginColumn" : 5,
+              "endLine" : 57,
+              "endColumn" : 46,
+              "beginLine" : 57
+            },
+            "name" : {
+              "!" : "com.github.javaparser.ast.expr.SimpleName",
+              "range" : {
+                "beginColumn" : 5,
+                "endLine" : 57,
+                "endColumn" : 18,
+                "beginLine" : 57
+              }
+            },
+            "arguments" : [ {
+              "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+              "range" : {
+                "beginColumn" : 20,
+                "endLine" : 57,
+                "endColumn" : 45,
+                "beginLine" : 57
+              },
+              "scope" : {
+                "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                "range" : {
+                  "beginColumn" : 20,
+                  "endLine" : 57,
+                  "endColumn" : 27,
+                  "beginLine" : 57
+                },
+                "scope" : {
+                  "!" : "com.github.javaparser.ast.expr.NameExpr",
+                  "range" : {
+                    "beginColumn" : 18,
+                    "endLine" : 36,
+                    "endColumn" : 18,
+                    "beginLine" : 36
+                  },
+                  "children" : [ {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 18,
+                      "endLine" : 36,
+                      "endColumn" : 18,
+                      "beginLine" : 36
+                    }
+                  } ]
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 22,
+                    "endLine" : 57,
+                    "endColumn" : 27,
+                    "beginLine" : 57
+                  }
+                }
+              },
+              "name" : {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 29,
+                  "endLine" : 57,
+                  "endColumn" : 45,
+                  "beginLine" : 57
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 60,
+            "endColumn" : 77,
+            "beginLine" : 59
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.VariableDeclarationExpr",
+            "range" : {
+              "beginColumn" : 5,
+              "endLine" : 60,
+              "endColumn" : 76,
+              "beginLine" : 59
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.body.VariableDeclarator",
+              "range" : {
+                "beginColumn" : 18,
+                "endLine" : 60,
+                "endColumn" : 76,
+                "beginLine" : 59
+              },
+              "name" : {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 18,
+                  "endLine" : 59,
+                  "endColumn" : 29,
+                  "beginLine" : 59
+                }
+              },
+              "initializer" : {
+                "!" : "com.github.javaparser.ast.expr.CastExpr",
+                "range" : {
+                  "beginColumn" : 9,
+                  "endLine" : 60,
+                  "endColumn" : 76,
+                  "beginLine" : 60
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+                  "range" : {
+                    "beginColumn" : 10,
+                    "endLine" : 60,
+                    "endColumn" : 21,
+                    "beginLine" : 60
+                  },
+                  "children" : [ {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 15,
+                      "endLine" : 35,
+                      "endColumn" : 26,
+                      "beginLine" : 35
+                    }
+                  } ]
+                }, {
+                  "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                  "range" : {
+                    "beginColumn" : 24,
+                    "endLine" : 60,
+                    "endColumn" : 76,
+                    "beginLine" : 60
+                  },
+                  "scope" : {
+                    "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                    "range" : {
+                      "beginColumn" : 24,
+                      "endLine" : 60,
+                      "endColumn" : 34,
+                      "beginLine" : 60
+                    },
+                    "name" : {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 24,
+                        "endLine" : 60,
+                        "endColumn" : 32,
+                        "beginLine" : 60
+                      }
+                    },
+                    "arguments" : [ ]
+                  },
+                  "name" : {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 36,
+                      "endLine" : 60,
+                      "endColumn" : 55,
+                      "beginLine" : 60
+                    }
+                  },
+                  "arguments" : [ {
+                    "!" : "com.github.javaparser.ast.expr.NameExpr",
+                    "range" : {
+                      "beginColumn" : 57,
+                      "endLine" : 60,
+                      "endColumn" : 75,
+                      "beginLine" : 60
+                    },
+                    "children" : [ {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 57,
+                        "endLine" : 60,
+                        "endColumn" : 75,
+                        "beginLine" : 60
+                      }
+                    } ]
+                  } ]
+                } ]
+              }
+            } ]
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 61,
+            "endColumn" : 48,
+            "beginLine" : 61
+          },
+          "children" : [ {
+            "!" : "com.github.javaparser.ast.expr.VariableDeclarationExpr",
+            "range" : {
+              "beginColumn" : 5,
+              "endLine" : 61,
+              "endColumn" : 47,
+              "beginLine" : 61
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.body.VariableDeclarator",
+              "range" : {
+                "beginColumn" : 15,
+                "endLine" : 61,
+                "endColumn" : 47,
+                "beginLine" : 61
+              },
+              "name" : {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 15,
+                  "endLine" : 61,
+                  "endColumn" : 23,
+                  "beginLine" : 61
+                }
+              },
+              "initializer" : {
+                "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                "range" : {
+                  "beginColumn" : 27,
+                  "endLine" : 61,
+                  "endColumn" : 47,
+                  "beginLine" : 61
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 27,
+                    "endLine" : 61,
+                    "endColumn" : 45,
+                    "beginLine" : 61
+                  }
+                },
+                "arguments" : [ ]
+              }
+            } ]
+          } ]
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.IfStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 64,
+            "endColumn" : 5,
+            "beginLine" : 62
+          },
+          "condition" : {
+            "!" : "com.github.javaparser.ast.expr.BinaryExpr",
+            "range" : {
+              "beginColumn" : 9,
+              "endLine" : 62,
+              "endColumn" : 25,
+              "beginLine" : 62
+            },
+            "children" : [ {
+              "!" : "com.github.javaparser.ast.expr.NameExpr",
+              "range" : {
+                "beginColumn" : 9,
+                "endLine" : 62,
+                "endColumn" : 17,
+                "beginLine" : 62
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 15,
+                  "endLine" : 61,
+                  "endColumn" : 23,
+                  "beginLine" : 61
+                }
+              } ]
+            }, {
+              "!" : "com.github.javaparser.ast.expr.NullLiteralExpr",
+              "range" : {
+                "beginColumn" : 22,
+                "endLine" : 62,
+                "endColumn" : 25,
+                "beginLine" : 62
+              }
+            } ]
+          },
+          "thenStmt" : {
+            "!" : "com.github.javaparser.ast.stmt.BlockStmt",
+            "range" : {
+              "beginColumn" : 28,
+              "endLine" : 64,
+              "endColumn" : 5,
+              "beginLine" : 62
+            },
+            "statements" : [ {
+              "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+              "range" : {
+                "beginColumn" : 7,
+                "endLine" : 63,
+                "endColumn" : 50,
+                "beginLine" : 63
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                "range" : {
+                  "beginColumn" : 7,
+                  "endLine" : 63,
+                  "endColumn" : 49,
+                  "beginLine" : 63
+                },
+                "scope" : {
+                  "!" : "com.github.javaparser.ast.expr.NameExpr",
+                  "range" : {
+                    "beginColumn" : 9,
+                    "endLine" : 62,
+                    "endColumn" : 17,
+                    "beginLine" : 62
+                  },
+                  "children" : [ {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 15,
+                      "endLine" : 61,
+                      "endColumn" : 23,
+                      "beginLine" : 61
+                    }
+                  } ]
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 17,
+                    "endLine" : 63,
+                    "endColumn" : 24,
+                    "beginLine" : 63
+                  }
+                },
+                "arguments" : [ {
+                  "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                  "range" : {
+                    "beginColumn" : 26,
+                    "endLine" : 63,
+                    "endColumn" : 48,
+                    "beginLine" : 63
+                  },
+                  "scope" : {
+                    "!" : "com.github.javaparser.ast.expr.NameExpr",
+                    "range" : {
+                      "beginColumn" : 26,
+                      "endLine" : 63,
+                      "endColumn" : 37,
+                      "beginLine" : 63
+                    },
+                    "children" : [ {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 18,
+                        "endLine" : 59,
+                        "endColumn" : 29,
+                        "beginLine" : 59
+                      }
+                    } ]
+                  },
+                  "name" : {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 22,
+                      "endLine" : 47,
+                      "endColumn" : 31,
+                      "beginLine" : 47
+                    }
+                  }
+                } ]
+              } ]
+            } ]
+          }
+        }, {
+          "!" : "com.github.javaparser.ast.stmt.TryStmt",
+          "range" : {
+            "beginColumn" : 5,
+            "endLine" : 75,
+            "endColumn" : 5,
+            "beginLine" : 66
+          },
+          "tryBlock" : {
+            "!" : "com.github.javaparser.ast.stmt.BlockStmt",
+            "range" : {
+              "beginColumn" : 9,
+              "endLine" : 73,
+              "endColumn" : 5,
+              "beginLine" : 66
+            },
+            "statements" : [ {
+              "!" : "com.github.javaparser.ast.stmt.ExpressionStmt",
+              "range" : {
+                "beginColumn" : 7,
+                "endLine" : 72,
+                "endColumn" : 20,
+                "beginLine" : 67
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                "range" : {
+                  "beginColumn" : 7,
+                  "endLine" : 72,
+                  "endColumn" : 19,
+                  "beginLine" : 67
+                },
+                "scope" : {
+                  "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                  "range" : {
+                    "beginColumn" : 7,
+                    "endLine" : 71,
+                    "endColumn" : 84,
+                    "beginLine" : 67
+                  },
+                  "scope" : {
+                    "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                    "range" : {
+                      "beginColumn" : 7,
+                      "endLine" : 68,
+                      "endColumn" : 29,
+                      "beginLine" : 67
+                    },
+                    "scope" : {
+                      "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                      "range" : {
+                        "beginColumn" : 7,
+                        "endLine" : 67,
+                        "endColumn" : 26,
+                        "beginLine" : 67
+                      },
+                      "name" : {
+                        "!" : "com.github.javaparser.ast.expr.SimpleName",
+                        "range" : {
+                          "beginColumn" : 7,
+                          "endLine" : 67,
+                          "endColumn" : 24,
+                          "beginLine" : 67
+                        }
+                      },
+                      "arguments" : [ ]
+                    },
+                    "name" : {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 12,
+                        "endLine" : 68,
+                        "endColumn" : 27,
+                        "beginLine" : 68
+                      }
+                    },
+                    "arguments" : [ ]
+                  },
+                  "name" : {
+                    "!" : "com.github.javaparser.ast.expr.SimpleName",
+                    "range" : {
+                      "beginColumn" : 12,
+                      "endLine" : 69,
+                      "endColumn" : 18,
+                      "beginLine" : 69
+                    }
+                  },
+                  "arguments" : [ {
+                    "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                    "range" : {
+                      "beginColumn" : 15,
+                      "endLine" : 70,
+                      "endColumn" : 37,
+                      "beginLine" : 70
+                    },
+                    "scope" : {
+                      "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                      "range" : {
+                        "beginColumn" : 15,
+                        "endLine" : 70,
+                        "endColumn" : 18,
+                        "beginLine" : 70
+                      },
+                      "scope" : {
+                        "!" : "com.github.javaparser.ast.expr.NameExpr",
+                        "range" : {
+                          "beginColumn" : 18,
+                          "endLine" : 36,
+                          "endColumn" : 18,
+                          "beginLine" : 36
+                        },
+                        "children" : [ {
+                          "!" : "com.github.javaparser.ast.expr.SimpleName",
+                          "range" : {
+                            "beginColumn" : 18,
+                            "endLine" : 36,
+                            "endColumn" : 18,
+                            "beginLine" : 36
+                          }
+                        } ]
+                      },
+                      "name" : {
+                        "!" : "com.github.javaparser.ast.expr.SimpleName",
+                        "range" : {
+                          "beginColumn" : 17,
+                          "endLine" : 70,
+                          "endColumn" : 18,
+                          "beginLine" : 70
+                        }
+                      }
+                    },
+                    "name" : {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 20,
+                        "endLine" : 70,
+                        "endColumn" : 37,
+                        "beginLine" : 70
+                      }
+                    }
+                  }, {
+                    "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                    "range" : {
+                      "beginColumn" : 15,
+                      "endLine" : 71,
+                      "endColumn" : 83,
+                      "beginLine" : 71
+                    },
+                    "scope" : {
+                      "!" : "com.github.javaparser.ast.expr.MethodCallExpr",
+                      "range" : {
+                        "beginColumn" : 15,
+                        "endLine" : 71,
+                        "endColumn" : 69,
+                        "beginLine" : 71
+                      },
+                      "scope" : {
+                        "!" : "com.github.javaparser.ast.expr.FieldAccessExpr",
+                        "range" : {
+                          "beginColumn" : 15,
+                          "endLine" : 71,
+                          "endColumn" : 44,
+                          "beginLine" : 71
+                        },
+                        "scope" : {
+                          "!" : "com.github.javaparser.ast.expr.NameExpr",
+                          "range" : {
+                            "beginColumn" : 26,
+                            "endLine" : 63,
+                            "endColumn" : 37,
+                            "beginLine" : 63
+                          },
+                          "children" : [ {
+                            "!" : "com.github.javaparser.ast.expr.SimpleName",
+                            "range" : {
+                              "beginColumn" : 18,
+                              "endLine" : 59,
+                              "endColumn" : 29,
+                              "beginLine" : 59
+                            }
+                          } ]
+                        },
+                        "name" : {
+                          "!" : "com.github.javaparser.ast.expr.SimpleName",
+                          "range" : {
+                            "beginColumn" : 70,
+                            "endLine" : 47,
+                            "endColumn" : 86,
+                            "beginLine" : 47
+                          }
+                        }
+                      },
+                      "name" : {
+                        "!" : "com.github.javaparser.ast.expr.SimpleName",
+                        "range" : {
+                          "beginColumn" : 46,
+                          "endLine" : 71,
+                          "endColumn" : 67,
+                          "beginLine" : 71
+                        }
+                      },
+                      "arguments" : [ ]
+                    },
+                    "name" : {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 71,
+                        "endLine" : 71,
+                        "endColumn" : 81,
+                        "beginLine" : 71
+                      }
+                    },
+                    "arguments" : [ ]
+                  } ]
+                },
+                "name" : {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 12,
+                    "endLine" : 72,
+                    "endColumn" : 17,
+                    "beginLine" : 72
+                  }
+                },
+                "arguments" : [ ]
+              } ]
+            } ]
+          },
+          "catchClauses" : [ {
+            "!" : "com.github.javaparser.ast.stmt.CatchStmt",
+            "range" : {
+              "beginColumn" : 7,
+              "endLine" : 75,
+              "endColumn" : 5,
+              "beginLine" : 73
+            },
+            "parameter" : {
+              "!" : "com.github.javaparser.ast.body.Parameter",
+              "range" : {
+                "beginColumn" : 14,
+                "endLine" : 73,
+                "endColumn" : 24,
+                "beginLine" : 73
+              },
+              "children" : [ {
+                "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+                "range" : {
+                  "beginColumn" : 14,
+                  "endLine" : 73,
+                  "endColumn" : 22,
+                  "beginLine" : 73
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.expr.SimpleName",
+                  "range" : {
+                    "beginColumn" : 14,
+                    "endLine" : 73,
+                    "endColumn" : 22,
+                    "beginLine" : 73
+                  }
+                } ]
+              }, {
+                "!" : "com.github.javaparser.ast.expr.SimpleName",
+                "range" : {
+                  "beginColumn" : 24,
+                  "endLine" : 73,
+                  "endColumn" : 24,
+                  "beginLine" : 73
+                }
+              } ]
+            },
+            "body" : {
+              "!" : "com.github.javaparser.ast.stmt.BlockStmt",
+              "range" : {
+                "beginColumn" : 27,
+                "endLine" : 75,
+                "endColumn" : 5,
+                "beginLine" : 73
+              },
+              "statements" : [ {
+                "!" : "com.github.javaparser.ast.stmt.ThrowStmt",
+                "range" : {
+                  "beginColumn" : 7,
+                  "endLine" : 74,
+                  "endColumn" : 36,
+                  "beginLine" : 74
+                },
+                "children" : [ {
+                  "!" : "com.github.javaparser.ast.expr.ObjectCreationExpr",
+                  "range" : {
+                    "beginColumn" : 13,
+                    "endLine" : 74,
+                    "endColumn" : 35,
+                    "beginLine" : 74
+                  },
+                  "children" : [ {
+                    "!" : "com.github.javaparser.ast.type.ClassOrInterfaceType",
+                    "range" : {
+                      "beginColumn" : 17,
+                      "endLine" : 74,
+                      "endColumn" : 32,
+                      "beginLine" : 74
+                    },
+                    "children" : [ {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 17,
+                        "endLine" : 74,
+                        "endColumn" : 32,
+                        "beginLine" : 74
+                      }
+                    } ]
+                  }, {
+                    "!" : "com.github.javaparser.ast.expr.NameExpr",
+                    "range" : {
+                      "beginColumn" : 34,
+                      "endLine" : 74,
+                      "endColumn" : 34,
+                      "beginLine" : 74
+                    },
+                    "children" : [ {
+                      "!" : "com.github.javaparser.ast.expr.SimpleName",
+                      "range" : {
+                        "beginColumn" : 24,
+                        "endLine" : 73,
+                        "endColumn" : 24,
+                        "beginLine" : 73
+                      }
+                    } ]
+                  } ]
+                } ]
+              } ]
+            }
+          } ]
+        } ]
+      }
+    } ]
+  } ]
+}
