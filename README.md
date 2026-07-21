@@ -7,6 +7,7 @@ This project focuses on developer-code relationship extraction research, contain
 - `DCR Extraction Based on Baseline M1/` - Implementation based on baseline model M1
 - `DCR Extraction Based on Baseline M2/` - Implementation based on baseline model M2
 - `README.md` - Project documentation
+- `scoreFile.csv` - Detailed scoring file
 
 ## Module Description
 
